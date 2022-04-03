@@ -1,7 +1,11 @@
 <?php
-class uji(){
-    public function coba(){
-        return "hasil teks";
-    }
+ph
+<?php
+<?php
+p
+<?php
+<?php
+<?php
 
-}
+<?php
+<?php
